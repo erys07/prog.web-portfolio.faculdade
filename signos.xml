@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<signos>
+    <signo>
+        <dataInicio>21/03</dataInicio>
+        <dataFim>20/04</dataFim>
+        <signoNome>Áries</signoNome>
+        <descricao>Áries é o primeiro signo do zodíaco. Regido por Marte, é caracterizado por sua energia, dinamismo e liderança. São pessoas conhecidas por serem pioneiras, corajosas e impulsivas.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/04</dataInicio>
+        <dataFim>20/05</dataFim>
+        <signoNome>Touro</signoNome>
+        <descricao>Touro é o segundo signo do zodíaco. Regido por Vênus, é caracterizado pela sua determinação, sensualidade e praticidade. São pessoas conhecidas por serem pacientes, confiáveis e apreciadoras do conforto material.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/05</dataInicio>
+        <dataFim>20/06</dataFim>
+        <signoNome>Gêmeos</signoNome>
+        <descricao>Gêmeos é o terceiro signo do zodíaco. Regido por Mercúrio, é caracterizado pela sua versatilidade, comunicação e curiosidade. São pessoas conhecidas por serem sociáveis, inteligentes e adaptáveis.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/06</dataInicio>
+        <dataFim>22/07</dataFim>
+        <signoNome>Câncer</signoNome>
+        <descricao>Câncer é o quarto signo do zodíaco. Regido pela Lua, é caracterizado pela sua emotividade, intuição e proteção. São pessoas conhecidas por serem sensíveis, protetoras e ligadas à família.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/07</dataInicio>
+        <dataFim>22/08</dataFim>
+        <signoNome>Leão</signoNome>
+        <descricao>Leão é o quinto signo do zodíaco. Regido pelo Sol, é caracterizado pelo seu carisma, criatividade e liderança. São pessoas conhecidas por serem generosas, orgulhosas e dramáticas.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/08</dataInicio>
+        <dataFim>22/09</dataFim>
+        <signoNome>Virgem</signoNome>
+        <descricao>Virgem é o sexto signo do zodíaco. Regido por Mercúrio, é caracterizado pelo seu perfeccionismo, praticidade e análise. São pessoas conhecidas por serem organizadas, prestativas e detalhistas.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/09</dataInicio>
+        <dataFim>22/10</dataFim>
+        <signoNome>Libra</signoNome>
+        <descricao>Libra é o sétimo signo do zodíaco. Regido por Vênus, é caracterizado pelo seu senso de justiça, diplomacia e harmonia. São pessoas conhecidas por serem equilibradas, sociáveis e indecisas.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/10</dataInicio>
+        <dataFim>21/11</dataFim>
+        <signoNome>Escorpião</signoNome>
+        <descricao>Escorpião é o oitavo signo do zodíaco. Regido por Plutão, é caracterizado pela sua intensidade, mistério e poder. São pessoas conhecidas por serem determinadas, passionais e investigativas.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/11</dataInicio>
+        <dataFim>21/12</dataFim>
+        <signoNome>Sagitário</signoNome>
+        <descricao>Sagitário é o nono signo do zodíaco. Regido por Júpiter, é caracterizado pelo seu otimismo, aventura e filosofia. São pessoas conhecidas por serem expansivas, sinceras e viajantes.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/12</dataInicio>
+        <dataFim>20/01</dataFim>
+        <signoNome>Capricórnio</signoNome>
+        <descricao>Capricórnio é o décimo signo do zodíaco. Regido por Saturno, é caracterizado pela sua ambição, responsabilidade e disciplina. São pessoas conhecidas por serem trabalhadoras, prudentes e persistentes.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/01</dataInicio>
+        <dataFim>18/02</dataFim>
+        <signoNome>Aquário</signoNome>
+        <descricao>Aquário é o décimo primeiro signo do zodíaco. Regido por Urano, é caracterizado pela sua originalidade, independência e humanidade. São pessoas conhecidas por serem inovadoras, excêntricas e idealistas.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>19/02</dataInicio>
+        <dataFim>20/03</dataFim>
+        <signoNome>Peixes</signoNome>
+        <descricao>Peixes é o décimo segundo signo do zodíaco. Regido por Netuno, é caracterizado pela sua intuição, sensibilidade e espiritualidade. São pessoas conhecidas por serem sonhadoras, compassivas e artísticas.</descricao>
+    </signo>
+</signos>
